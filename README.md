@@ -27,7 +27,7 @@ I am constantly motivated to keep learning and making myself better at the tasks
 ### 🔗 DevOps
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,grafana,prometheus,ansible,terraform,aws,cloudflare&perline=4"
+	<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,grafana,prometheus,ansible,terraform,aws,cloudflare&perline=3"
 </p>
 
   </td>
