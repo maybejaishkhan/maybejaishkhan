@@ -15,7 +15,7 @@ I am constantly motivated to keep learning and making myself better at the tasks
     <tr>
   <td valign="top" width="50%">
 
-### 🌐 Web Development
+### 🌐 WebDev
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,nextjs,astro,postgres,mongodb,redis,wasm,rust,threejs&perline=4"
@@ -35,7 +35,7 @@ I am constantly motivated to keep learning and making myself better at the tasks
   <tr>
   <td valign="top" width="50%">
 
-### 📱 Android Development
+### 📱 AndroidDev
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,java,gradle,sqlite,dart,flutter&perline=4"
@@ -44,7 +44,7 @@ I am constantly motivated to keep learning and making myself better at the tasks
   </td>
   <td valign="top" width="50%">
 
-### 🐧 Development Environment
+### 🐧 DevEnvironment
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim,python,nginx,bash,powershell&perline=4"
