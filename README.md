@@ -44,7 +44,7 @@ I am constantly motivated to keep learning and making myself better at the tasks
   </td>
   <td valign="top" width="50%">
 
-### 🐧 DevEnvironment
+### 🐧 Environment
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim,python,nginx,bash,powershell&perline=4"
