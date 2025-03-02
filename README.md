@@ -17,33 +17,18 @@ I am constantly motivated to keep learning and making myself better at the tasks
 
 ### 🌐 Web Development
 
-![HTML]()
-![CSS]()
-![JavaScript]()
-![TypeScript]()
-![React]()
-![Tailwind]()
-![Next.js]()
-![Astro]()
-![Three.js]()
-![Node.js]()
-![Express]()
-![MySQL]()
-![PostgresSQL]()
-![MongoDB]()
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,nextjs,astro,postgres,mongodb,redis,wasm,rust,threejs&perline=4"
+</p>
 
   </td>
   <td valign="top" width="50%">
 
 ### 🔗 DevOps
 
-![GitHub Actions]()
-![GitLab]()
-![Docker]()
-![Kubernetes]()
-![Ansible]()
-![Terraform]()
-![AWS]()
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,grafana,prometheus,ansible,terraform,aws,cloudflare&perline=4"
+</p>
 
   </td>
   </tr>
@@ -52,25 +37,18 @@ I am constantly motivated to keep learning and making myself better at the tasks
 
 ### 📱 Android Development
 
-![Android]()
-![Kotlin]()
-![Jetpack Compose]()
-![Kotlin Multiplatform]()
-![ARCore]()
-![Java]()
-![XML]()
-
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,java,gradle,sqlite,dart,flutter&perline=4"
+</p>
 
   </td>
   <td valign="top" width="50%">
 
 ### 🐧 Development Environment
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim,python,nginx,bash,powershell&perline=4"
+</p>
 
   </td>
   </tr>
@@ -78,6 +56,17 @@ I am constantly motivated to keep learning and making myself better at the tasks
   </table>
 </div>
 
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,go,lua,zig">
+</p>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=django,flask,dotnet,laravel,htmx,alpinejs,svelte">
+</p>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,godot,gtk">
+</p>
 
 
 ## My Github Stats
