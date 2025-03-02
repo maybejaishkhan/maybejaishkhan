@@ -15,36 +15,56 @@ I am constantly motivated to keep learning and making myself better at the tasks
     <tr>
   <td valign="top" width="50%">
 
-### 📱 Android Development
+### 🌐 Web Development
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
-
+![HTML]()
+![CSS]()
+![JavaScript]()
+![TypeScript]()
+![React]()
+![Tailwind]()
+![Next.js]()
+![Astro]()
+![Three.js]()
+![Node.js]()
+![Express]()
+![MySQL]()
+![PostgresSQL]()
+![MongoDB]()
 
   </td>
   <td valign="top" width="50%">
 
-### 🐧 WSL/Linux Dev Environment
+### 🔗 DevOps
 
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
-
-
+![GitHub Actions]()
+![GitLab]()
+![Docker]()
+![Kubernetes]()
+![Ansible]()
+![Terraform]()
+![AWS]()
 
   </td>
   </tr>
   <tr>
   <td valign="top" width="50%">
 
-### Android Development
+### 📱 Android Development
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
+![Android]()
+![Kotlin]()
+![Jetpack Compose]()
+![Kotlin Multiplatform]()
+![ARCore]()
+![Java]()
+![XML]()
 
 
   </td>
   <td valign="top" width="50%">
 
-### 🐧 WSL/Linux Dev Environment
-
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
+### 🐧 Development Environment
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
