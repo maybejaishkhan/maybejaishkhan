@@ -10,20 +10,82 @@ class JaishKhan: StudentForever {
 fun JaishKhan.hobbies {
 	return ["Programming", "Anime", "Chess", "ReadingThrough500PagesOfDocumentationCuzWhyNot"]
 }
+
+fun JaishKhan.newfound-hobbies {
+  return ["Home-Labbing", "Automating-Everything"]
+}
 ```
 
 ## Learning with Documentation 📃
 
-Documentation is that **ONE** thing that has made a whole lot of difference in me not being able to retain things I've learned... to now confidently exploring new things without the fear of amnesia;
+Documentation is that **ONE** thing that has made a whole lot of difference in me not being able to retain things I've learned... to now confidently exploring new things without the fear of amnesia.
 
 [Obsidian](https://obsidian.md/) + [Markdown](https://www.markdownguide.org/) + [Latex](https://www.latex-project.org/get/) is ofcourse **objectively** the best and most productive way (yes I'm right).
 
-## Tech Stack
+## My DevOps TechStack + Skillset 🛠️
 
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-    <tr>
+<table>
+<tr>
   <td valign="top" width="50%">
+
+### Absolute Fundamentals
+
+> Core Fundamentals like **DevOps Principles**, **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+</p>
+
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
+### Automation
+
+> "Never repeat yourself" — Use **Ansible** and **Terraform** instead.
+
+<p align="center">
+  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">
+</p>
+
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
+### Absolute Fundamentals
+
+|> **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+</p>
+
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
+### Absolute Fundamentals
+
+|> **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+</p>
+
+  </td>
+</tr>
+</table>
+
+### Other Things I have used frequently
+
+There were many which I coudln't find an icon for...
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,go,lua,zig,django,flask,dotnet,laravel,htmx,alpinejs,svelte,ps,ai,figma,blender,godot,unity,gtk">
+
+ <td valign="top" width="50%">
 
 ### 🌐 WebDev
 
@@ -34,20 +96,8 @@ Most familiar with it and have created many, many websites/apps.
 </p>
 
   </td>
-  <td valign="top" width="50%">
 
-### 🔗 DevOps
-
-Very passionate about it and am currently learning it.
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,grafana,prometheus,ansible,terraform,aws,cloudflare"
-</p>
-
-  </td>
-  </tr>
-  <tr>
-  <td valign="top" width="50%">
+<td valign="top" width="50%">
 
 ### 📱 AndroidDev
 
@@ -58,28 +108,6 @@ I find it the most friction-less and fruitful to work with.
 </p>
 
   </td>
-  <td valign="top" width="50%">
-
-### 🐧 Environment
-
-The technologies I use on a daily basis to make coding fun.
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=linux,windows,vscode,vim,python,nginx,bash,powershell"
-</p>
-
-  </td>
-  </tr>
-  
-  </table>
-</div>
-
-### Other Things I have used frequently
-
-There were many which I coudln't find an icon for...
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,go,lua,zig,django,flask,dotnet,laravel,htmx,alpinejs,svelte,ps,ai,figma,blender,godot,unity,gtk">
-
 
 ## My Github Stats
 
