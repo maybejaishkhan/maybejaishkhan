@@ -1,5 +1,5 @@
 
-# Hi, I'm [Jaish Khan]() 
+# Hi, I'm [Jaish Khan](https://maybejaishkhan.github.io)
 
 ```kt
 class JaishKhan: StudentForever {
@@ -20,6 +20,8 @@ fun JaishKhan.newfound-hobbies {
 
 Documentation is that **ONE** thing that has made a whole lot of difference in me not being able to retain things I've learned... to now confidently exploring new things without the fear of amnesia.
 
+<img src="./assets/icons/markdown-dark.svg" width="24" height="24" alt=""> <img src="./assets/icons/obsidian-auto.svg" width="24" height="24" alt=""> <img src="./assets/icons/latex-auto.svg" width="24" height="24" alt="">
+
 [Obsidian](https://obsidian.md/) + [Markdown](https://www.markdownguide.org/) + [Latex](https://www.latex-project.org/get/) is ofcourse **objectively** the best and most productive way (yes I'm right).
 
 ## My DevOps TechStack + Skillset 🛠️
@@ -33,7 +35,14 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 > Core Fundamentals like **DevOps Principles**, **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+  <img src="./assets/icons/linux-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/windows-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/terminal-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/git-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/github-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/docker.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/python-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/golang.svg" width="48" height="48" alt="">
 </p>
 
   </td>
@@ -41,12 +50,19 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 <tr>
   <td valign="top">
 
-### Automation
+### Automation and CI/CD
 
-> "Never repeat yourself" — Use **Ansible** and **Terraform** instead.
+> Continuous Integration, Config Management and Full Automation.
 
 <p align="center">
-  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48">
+  <img src="./assets/icons/bash-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/proxmox-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/ansible.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/githubactions-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/gitlab-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/jenkins-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/n8n-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/python-auto.svg" width="48" height="48" alt="">
 </p>
 
   </td>
@@ -54,12 +70,19 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 <tr>
   <td valign="top">
 
-### Absolute Fundamentals
+### Cloud and Infrastructure
 
-|> **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
+> Cloud Providers, Container Orchestration, Provisioning and Management.
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+  <img src="./assets/icons/terraform-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/aws-auto.svg" width="48" height="48" alt="">
+    <img src="./assets/icons/azure-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/helm-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/argocd-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/cloudflare-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/golang.svg" width="48" height="48" alt="">
 </p>
 
   </td>
@@ -67,25 +90,27 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 <tr>
   <td valign="top">
 
-### Absolute Fundamentals
+### Monitoring and Observability
 
-|> **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
+> Metrics, Logs, Traces, Dashboards + Message Queues.
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nodejs,python"
+  <img src="./assets/icons/grafana-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/prometheus.svg" width="48" height="48" alt="">
+    <img src="./assets/icons/datadog.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/kibana-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/elasticsearch-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/python-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/rabbitmq-auto.svg" width="48" height="48" alt="">
+  <img src="./assets/icons/kafka.svg" width="48" height="48" alt="">
 </p>
 
   </td>
 </tr>
 </table>
 
-### Other Things I have used frequently
-
-There were many which I coudln't find an icon for...
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,go,lua,zig,django,flask,dotnet,laravel,htmx,alpinejs,svelte,ps,ai,figma,blender,godot,unity,gtk">
-
- <td valign="top" width="50%">
+<details>
+  <summary><h3>Other Skills</h3></summary>
 
 ### 🌐 WebDev
 
@@ -108,6 +133,7 @@ I find it the most friction-less and fruitful to work with.
 </p>
 
   </td>
+</details>
 
 ## My Github Stats
 
