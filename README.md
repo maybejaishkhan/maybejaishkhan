@@ -16,7 +16,7 @@ fun JaishKhan.newfound-hobbies {
 }
 ```
 
-## Learning with Documentation 📃
+## Learning with Documentation
 
 Documentation is that **ONE** thing that has made a whole lot of difference in me not being able to retain things I've learned... to now confidently exploring new things without the fear of amnesia.
 
@@ -35,10 +35,8 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 > Core Fundamentals like **DevOps Principles**, **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
 
 <p align="center">
-  <span style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 4px 8px; margin: 4px;">
-  <img src="./assets/icons/linux-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;">
-  Linux
-  </span>
+  <kbd><img src="./assets/icons/linux-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;"> &nbsp; Linux
+  </kbd>
   <span style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 4px 8px; margin: 4px;">
   <img src="./assets/icons/windows-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;">
   Windows
