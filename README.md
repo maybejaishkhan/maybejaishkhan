@@ -158,9 +158,9 @@ I find it the most friction-less and fruitful to work with.
   
 </details>
 
-<span style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 4px 8px; margin: 4px;">
+<kbd>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
        style="height: 1em; vertical-align: middle; margin-right: 6px;">
   JavaScript
-</span>
+</kbd>
 
