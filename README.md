@@ -35,12 +35,13 @@ Documentation is that **ONE** thing that has made a whole lot of difference in m
 > Core Fundamentals like **DevOps Principles**, **Programming**, **Operating Systems**, **Version Control**, **Containers** and **Virtual Machines**.
 
 <p align="center">
-  <kbd><img src="./assets/icons/linux-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;"> &nbsp; Linux
+  <kbd><img src="./assets/icons/linux-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;">  
+ Linux
   </kbd>
-  <span style="display: inline-block; border: 1px solid #ccc; border-radius: 8px; padding: 4px 8px; margin: 4px;">
+  <kbd>
   <img src="./assets/icons/windows-auto.svg" style="height: 1em; vertical-align: middle; margin-right: 6px;">
   Windows
-  </span>
+  </kbd>
 </p>
 
 
